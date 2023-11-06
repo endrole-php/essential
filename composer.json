@@ -1,0 +1,19 @@
+{
+    "name": "endrolephp/essential",
+    "description": "Endrole PHP Essential Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endrolephp\\Essential\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zate Endrole",
+            "email": "zate.endrole@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
